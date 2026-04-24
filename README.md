@@ -2,6 +2,8 @@
 
 A tiny, focused web demo that lets you quickly swap the page background color using plain HTML, CSS and JavaScript.
 
+![Demo screenshot](https://raw.githubusercontent.com/BinaryVortex/Interchangeable-Background-Color/main/Screenshot%202024-05-04%20223652.png)
+
 > A simple experiment — open the page, click a button, and the background color changes.
 
 Highlights
