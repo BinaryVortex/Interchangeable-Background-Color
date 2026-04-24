@@ -2,9 +2,7 @@
 
 A tiny, focused web demo that lets you quickly swap the page background color using plain HTML, CSS and JavaScript.
 
-![Demo screenshot](./Screenshot 2024-05-04 223652.png)
-
-> A simple experiment — open the page, click a button, and the background color changes.
+A simple experiment — open the page, click a button, and the background color changes.
 
 Highlights
 - Minimal single-page demo (no build tools required).
